@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.head-text {
+    position: relative;
+ }
+ .text-on-image {
+   position: absolute;
+ 
+   left: 5%;
+   bottom: 10%;
+ }
